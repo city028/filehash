@@ -1,4 +1,4 @@
-##This command line programme creates a SHA256 hash from a file.
+This command line programme creates a SHA256 hash from a file.
 
 This can be used together with the BIP39 command line tool when a file is used to create a SEED Phrase.
 
