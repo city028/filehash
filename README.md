@@ -8,4 +8,4 @@ Ofcourse you need to make sure you always have access to the input file and that
 
 When you need to restore you take the file, take the hash and compare, if equal the seed phrase generated should be the same (This needs to be tested).
 
-PLEASE DO YOUR OWN RESEARCH AND REVIEW THIS PROGRAMME BEFORE YOU COMMIT TO ANYTHING!
+PLEASE DO YOUR OWN RESEARCH AND REVIEW THIS PROGRAM BEFORE YOU COMMIT TO ANYTHING!
